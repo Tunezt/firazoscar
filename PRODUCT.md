@@ -23,7 +23,7 @@ The personal site of Firaz Wianda Faric Oscar, final-year CS student (Sunway Uni
 
 ## Positioning
 
-He ships live production systems for real small businesses and communities, not class demos: a café dashboard + POS in daily use, a paid membership business he runs (2.92x ROAS, 61 orders), paid Next.js platforms for a 4,000-member Discord community, a barbershop booking system. Outcomes first, stack second.
+He ships live production systems for real small businesses and communities, not class demos: a café dashboard + POS live for a working café (daily use not confirmed), a paid membership business he runs (2.92x ROAS, 61 orders), paid Next.js platforms for a 4,000-member Discord community, a barbershop booking system. Outcomes first, stack second.
 
 ## Evidence (only these; never invent)
 
