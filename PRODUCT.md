@@ -28,7 +28,7 @@ He ships live production systems for real small businesses and communities, not 
 ## Evidence (only these; never invent)
 
 - Resume PDF (repo root) is the source of truth for education, roles, numbers and skills.
-- FYP (Poernama): owner dashboard + staff POS live at a working café in Banjarmasin; WhatsApp owner assistant with 15 fixed tools, receipt photo reading, nightly anomaly alerts built and tested (not yet live on a real WhatsApp line as of 22 Nov 2026); 780 automated tests (coordinator brief; supervisor update said 756 on 22 Nov); fixed tools answered 15/15 test questions correctly vs 2/15 for free text-to-SQL.
+- FYP (Poernama): owner dashboard + staff POS live at a working café in Banjarmasin; WhatsApp owner assistant with 15 fixed tools, receipt photo reading, nightly anomaly alerts live on a real WhatsApp line since 23 Nov 2026 16:10 WITA (self-hosted gateway); 780 automated tests (commit a22806d, 23 Nov 2026); fixed tools answered 15/15 test questions correctly vs 2/15 for free text-to-SQL.
 - Screenshots: FYP and TemanCukur use demo data, safe to show.
 - Do not publish the phone number. TemanCukur live link withheld until redeploy (TODO in config).
 
